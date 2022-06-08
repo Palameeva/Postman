@@ -41,9 +41,9 @@ request form data:
 
 POST http://162.55.220.72:5005/user_info_3
   KEY        VALUE
-  name          str
-  age             25
-  salary         1000
+  name        str
+  age         25
+  salary      1000
 
 Save => Send
 
@@ -67,9 +67,9 @@ request url params:
 
 GET http://162.55.220.72:5005/object_info_1
 KEY        VALUE
-  name          str
-  age             25
-  weight        61
+  name         str
+  age          25
+  weight       61
 
 Save => Send
 
@@ -93,9 +93,9 @@ request url params:
 
 GET http://162.55.220.72:5005/object_info_2
   KEY        VALUE
-  name          str
-  age             25
-  salary         1000
+  name        str
+  age         25
+  salary      1000
 
 Save => Send
 
@@ -123,9 +123,9 @@ request url params:
 
 GET http://162.55.220.72:5005/object_info_3
   KEY        VALUE
-  name          str
-  age             25
-  salary         1000
+  name        str
+  age         25
+  salary      1000
 
 Save => Send
 
@@ -155,9 +155,9 @@ request url params:
 
 GET http://162.55.220.72:5005/object_info_4
   KEY        VALUE
-  name          str
-  age             25
-  salary         1000
+  name        str
+  age         25
+  salary      1000
 
 Save => Send
 
@@ -179,9 +179,9 @@ request form data:
 
 POST http://162.55.220.72:5005/user_info_2
   KEY        VALUE
-  name          str
-  age             25
-  salary         1000
+  name       str
+  age        25
+  salary     1000
 
 Save => Send
 
