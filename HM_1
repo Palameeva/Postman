@@ -19,7 +19,7 @@ request url params:
 GET http://162.55.220.72:5005/get_method
     KEY        VALUE
   name          str
-  age             str
+  age           str
 
 Save => Send
 
